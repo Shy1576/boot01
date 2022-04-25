@@ -30,7 +30,7 @@ public interface ProviderDao {
      * @param provider
      * @return
      */
-    public int saveProvider(Provider provider);
+     int saveProvider(Provider provider);
 
 
     /**
